@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Enter to Send</string>
+    <string name="accessibility_description">ChatGPT에서 물리 키보드 Enter 키를 메시지 전송으로 사용합니다. Shift+Enter는 줄바꿈입니다.</string>
+</resources>
